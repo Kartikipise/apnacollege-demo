@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is first git repository
 <br>
-Author-Kartiki Pise
+Author-Kartiki Pise(Pisewadi)
